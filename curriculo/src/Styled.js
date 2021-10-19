@@ -66,8 +66,7 @@ const P = styled.p`
   font-size: ${props => props.fontSize ? "13.3px;" : "15px"};
   margin-bottom: ${props => props.marginBottom ? "8x;" : "0px"}; 
   padding: ${props => props.padding ? "2%;" : "0px"};
-  padding-left: ${props => props.paddingLeft ? "2%;" : "0px"};
-
+  padding-left: ${props => props.paddingLeft ? "2%;" : "9p"};
 `
 
 const Div = styled.div`
@@ -85,6 +84,7 @@ const DivCompetencias = styled.div`
   align-items: center;
   margin-left: 20px;
   margin-right: 20px;
+  margin-bottom: ${props => props.marginBottom ? "5%;" : "1px"};
   font-size: 14px;
 `
 

@@ -28,9 +28,9 @@ export default () => {
           <Styled.P marginLeft fontSize marginBottom><FiPhone  /> 41 998605554 </Styled.P> 
           <Styled.P  fontSize marginBottom padding><AiOutlineMail /> debora.roldanlara@gmail.com </Styled.P> 
           <Styled.P marginLeft fontSize marginBottom><AiFillLinkedin /><a href='https://www.linkedin.com/in/deboralara/' target="_blank" rel="noreferrer">www.linkedin.com/in/deboralara</a>  </Styled.P> 
-          <Styled.P marginLeft fontSize marginBottom>< AiFillGithub /><a href='https://github.com/deboralara1' target="_blank" rel="noreferrer">https://github.com/deboralara1 </a></Styled.P>
-          <Styled.P marginLeft fontSize marginBotto>< AiOutlineFundProjectionScreen /><a href='https://deboralara1.github.io/Portfolio' target="_blank" rel="noreferrer"> https://deboralara1.github.io/Portfolio</a></Styled.P>
-          <Styled.P  fontSize padding>< GoLocation /> Colombo - PR </Styled.P>
+          <Styled.P marginLeft fontSize marginBottom>< AiFillGithub /><a href='https://github.com/deboralara1' target="_blank" rel="noreferrer"> Github: https://github.com/deboralara1 </a></Styled.P>
+          <Styled.P marginLeft fontSize marginBotto>< AiOutlineFundProjectionScreen /><a href='https://deboralara1.github.io/Portfolio' target="_blank" rel="noreferrer">Portfolio: https://deboralara1.github.io/Portfolio</a></Styled.P>
+          <Styled.P fontSize padding>< GoLocation /> Colombo - PR </Styled.P>
 
           <Styled.Perfil borderLeftStyle > Qualificações e Competências </Styled.Perfil>
           
@@ -54,7 +54,7 @@ export default () => {
           <Styled.DivCompetencias> HTML <Styled.Input background="linear-gradient(to right, #bebaba 90%, #ffffff 30%)"/></Styled.DivCompetencias>
           <Styled.DivCompetencias> Domínio de Lógica de Lirogramação <Styled.Input background="linear-gradient(to right, #bebaba 90%, #ffffff 30%)"/></Styled.DivCompetencias>
           <Styled.DivCompetencias> Git, GitHub, Gerrit, Jira, Kanban, Trello <Styled.Input background="linear-gradient(to right, #bebaba 80%, #ffffff 30%)"/></Styled.DivCompetencias>
-          <Styled.DivCompetencias> Windows e Linux intermediário <Styled.Input background="linear-gradient(to right, #bebaba 70%, #ffffff 30%)"/></Styled.DivCompetencias>
+          <Styled.DivCompetencias marginBottom> Windows e Linux intermediário <Styled.Input background="linear-gradient(to right, #bebaba 70%, #ffffff 30%)"/></Styled.DivCompetencias>
 
         </Styled.Pessoal>
 
