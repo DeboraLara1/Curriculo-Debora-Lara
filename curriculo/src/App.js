@@ -1,6 +1,6 @@
 /* eslint-disable import/no-anonymous-default-export */
 import React from 'react';
-import Styled from './Styled.jsx';
+import Styled from './Styled.js';
 import { FiPhone } from "react-icons/fi";
 import {AiOutlineMail, AiFillLinkedin, AiFillGithub, AiOutlineFundProjectionScreen} from 'react-icons/ai';
 import { BiMinus, BiRocket } from 'react-icons/bi';
