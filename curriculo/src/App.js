@@ -22,7 +22,7 @@ export default () => {
           </Styled.Div>
 
           <Styled.Perfil borderLeftStyle> Perfil </Styled.Perfil>
-          <Styled.P marginLeft fontSize>Desenvolvedora Front End, Angular, Angular Material, Bootstrap, React, JavaScript, Typescript, HTML, CSS. </Styled.P>
+          <Styled.P marginLeft fontSize>Desenvolvedora Front End, Angular, Angular Material, Bootstrap, React, React Native, JavaScript, Typescript, JSX, HTML, CSS. </Styled.P>
 
           <Styled.Perfil borderLeftStyle > Contato </Styled.Perfil>
           <Styled.P marginLeft fontSize marginBottom><FiPhone /> 41 998605554 </Styled.P>
