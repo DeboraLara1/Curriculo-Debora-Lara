@@ -124,7 +124,7 @@ export default () => {
         <Styled.Section>
           <Styled.Main>
             <Styled.Perfil><BiRocket /> Experiencias Profissionais </Styled.Perfil>
-            <Styled.H6 borderLeftStyle> DESENVOLVEDORA JR FRONT-END REACT NATIVE| ZARB SOLUTION | 12/2021 </Styled.H6>
+            <Styled.H6 borderLeftStyle> FREELANCER: DESENVOLVEDORA JR FRONT-END REACT NATIVE| ZARB SOLUTION | 12/2021 </Styled.H6>
             <Styled.P marginLeft paddingLeft fontSize><BiMinus /> Atuei no desenvolvimento de uma aplicativo corporativo, implementando funções de cadastramento de formulários, integrações a API, login com certas validações entre outras funções solicitadas pelo cliente </Styled.P>
             <Styled.P marginLeft fontSize paddingLeft><BiMinus /> Atuo no desenvolvimento do APP dando  sustentação, atuando no Front-End utilizando HTML, CSS, React Native, Styled Components - Native, JavaScript, TypeScript, JSX e trabalhando constantemente com integrações à APIs com REST. </Styled.P>
             <Styled.H6 borderLeftStyle> ESTÁGIO DE DESENVOLVEDORA FRONT-END REACT| ZUP INNOVATION | 04/2021  À 12/2021</Styled.H6>
